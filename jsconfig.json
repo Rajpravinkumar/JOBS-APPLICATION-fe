@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       // ...
-      "baseUrl": ".",
+      "baseUrl": "https://job-application-be.onrender.com/api/v1",
       "paths": {
         "@/*": [
           "./src/*"
@@ -9,4 +9,6 @@
       }
       // ...
     }
-  }
+  } 
+
+ 
